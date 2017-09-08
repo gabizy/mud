@@ -1,0 +1,10 @@
+{
+  "name": "mud",
+  "description": "bower",
+  "main": "index.html",
+  "authors": [
+    "deadfree deadfreehere@hotmail.com"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
